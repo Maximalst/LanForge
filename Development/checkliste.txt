@@ -1,0 +1,10 @@
+Features:
+
+-admin login
+-lokale IP adresse
+-Startseite mit alles infos
+-bestellsysthem
+-Rules Seite 
+-Server join Liste mit Infos und Games was gespielt wird
+-Ticket systhem
+
